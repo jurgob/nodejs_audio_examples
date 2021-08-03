@@ -1,3 +1,9 @@
+## Node.js Audio lessons
+
+this code is related to this series of medium articles about node.js and audio:
+
+https://medium.com/@jurgo.boemo/work-with-audio-in-node-js-4a53cd9795a4
+
 ## install
 
 
