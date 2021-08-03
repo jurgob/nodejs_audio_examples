@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mic": "^2.1.2"
+    "mic": "^2.1.2",
+    "speaker": "^0.5.3"
   }
 }
